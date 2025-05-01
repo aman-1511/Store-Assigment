@@ -10,6 +10,14 @@ A Flutter application for salespersons to track their sales activities offline a
 - View all tasks with sync status
 - Simple and intuitive UI
 
+## Demo Images
+![Image](https://github.com/user-attachments/assets/4707f241-189a-4720-9ede-5dd5e9763ea1)
+
+![Image](https://github.com/user-attachments/assets/77ead123-0c0d-4294-9d6a-c5d8b93ec8a9)
+
+## Demo Video
+https://github.com/user-attachments/assets/6af53796-7199-47e9-a024-cd449546b4a0
+
 ## Setup Instructions
 
 1. Clone the repository
